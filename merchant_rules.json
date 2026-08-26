@@ -1,0 +1,11 @@
+[
+  {
+    "id": "rule_test_999",
+    "name": "High Value Escalation Guard",
+    "condition_field": "amount",
+    "operator": "gt",
+    "condition_value": 100000,
+    "action": "escalate",
+    "description": "Bypass retries and automatically escalate high-value payments to customer success agent queue."
+  }
+]

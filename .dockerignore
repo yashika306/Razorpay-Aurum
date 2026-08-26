@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment & secrets (injected via Cloud Run secrets)
+.env
+
+# Development & test files
+tests/
+.pytest_cache/
+
+# Node modules (rebuilt in Docker)
+frontend/node_modules/
+
+# Git
+.git/
+.gitignore
+
+# Docs & misc
+*.mhtml
+*.txt
+!requirements.txt
+docs/

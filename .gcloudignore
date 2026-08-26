@@ -1,0 +1,31 @@
+# Ignore virtual environment
+venv/
+.venv/
+env/
+
+# Ignore frontend build dependencies (we rebuild inside Docker anyway)
+frontend/node_modules/
+frontend/dist/
+
+# Ignore tests & caches
+tests/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local keys and DBs
+.env
+recovery_database.json
+
+# Ignore system files
+.git/
+.gitignore
+.gcloudignore
+
+# Ignore miscellaneous files
+*.mhtml
+*.txt
+!requirements.txt
+docs/
