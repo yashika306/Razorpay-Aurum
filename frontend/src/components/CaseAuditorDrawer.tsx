@@ -232,7 +232,7 @@ export const CaseAuditorDrawer: React.FC<CaseAuditorDrawerProps> = ({
       )}
 
       {/* Action Tools based on status, channel type, and failure eligibility */}
-      {['failed', 'abandoned', 'overdue'].includes(selectedCase.current_status) && (
+      {['failed', 'abandoned', 'overdue', 'escalated'].includes(selectedCase.current_status) && (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
 
           {/* CHECKOUT ABANDONMENT — No debt exists. Send cart recovery link only. */}
