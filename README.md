@@ -1,8 +1,15 @@
-# ⚡ AURUM : AI Revenue Recovery Engine
+# ⚡ AURUM — AI Revenue Recovery Engine
 
-> **Autonomous payment failure recovery, dunning automation, and revenue intelligence,  powered by Google Gemini 3.6 Flash and LangGraph.**
+> **Autonomous payment failure recovery, dunning automation, and revenue intelligence — powered by Google Gemini 3.6 Flash and LangGraph.**
 
-Built for the **Razorpay AI Revenue Recovery Buildathon**, AURUM detects revenue at risk, diagnoses the root cause, determines the right recovery intervention, and executes a fully bounded, compliant recovery workflow across payment failures, checkout abandonment, subscription mandates, and B2B invoice overdue cases.
+Built for the **Razorpay AI Revenue Recovery Buildathon** — AURUM detects revenue at risk, diagnoses the root cause, determines the right recovery intervention, and executes a fully bounded, compliant recovery workflow across payment failures, checkout abandonment, subscription mandates, and B2B invoice overdue cases.
+
+---
+
+## 🌐 Live Demo & Repository
+
+- **Live Application URL:** [https://aurum-1070790426798.us-central1.run.app](https://aurum-1070790426798.us-central1.run.app)
+- **GitHub Code Repository:** [https://github.com/yashika306/Razorpay-Aurum](https://github.com/yashika306/Razorpay-Aurum)
 
 ---
 
