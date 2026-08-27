@@ -10,6 +10,7 @@ Built for the **Razorpay AI Revenue Recovery Buildathon** — AURUM detects reve
 
 - **Live Application URL:** [https://aurum-1070790426798.us-central1.run.app](https://aurum-1070790426798.us-central1.run.app)
 - **GitHub Code Repository:** [https://github.com/yashika306/Razorpay-Aurum](https://github.com/yashika306/Razorpay-Aurum)
+- **Developer Submission & Testing Guide:** [SUBMISSION.md](SUBMISSION.md)
 
 ---
 
